@@ -1,0 +1,10 @@
+{
+  "name":"HomeHero — Your Home. Our Heroes.",
+  "short_name":"HomeHero",
+  "start_url":"./index.html",
+  "display":"standalone",
+  "background_color":"#050711",
+  "theme_color":"#070a13",
+  "description":"Smart household services marketplace.",
+  "icons":[]
+}
